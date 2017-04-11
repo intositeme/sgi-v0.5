@@ -1,0 +1,27 @@
+/*
+Font: 		Kroppen Round
+Style: 		Regular Oblique
+URL: 		https://www.youworkforthem.com/font/T6917/kroppen-round
+Foundry: 	Talbot Type
+Foundry: 	https://www.youworkforthem.com/designer/793/talbot-type
+Copyright:	 Copyright (c)2016 Talbot Type. All Rights Reserved
+Version: 	17
+Created:	September 17, 2016
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'KroppenRound-RegularOblique';
+	src: url('kroppen-round-regular-oblique.eot');
+	src: url('kroppen-round-regular-oblique.eot?#iefix') format('embedded-opentype'),
+             url('kroppen-round-regular-oblique.woff2') format('woff2'),
+	     url('kroppen-round-regular-oblique.woff') format('woff'),
+	     url('kroppen-round-regular-oblique.ttf') format('truetype'),
+	     url('kroppen-round-regular-oblique.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
